@@ -1,7 +1,5 @@
 def addition(num1, num2)
-  answer = "#{num1} + #{num2}"
-  puts answer
-  returns answer
+  puts "#{num1} + #{num2}"
 end
 
 def subtraction(num1, num2)
@@ -24,4 +22,4 @@ def square_root(num)
 
 end
 
-addition(5,4)
+addition(1,2)
