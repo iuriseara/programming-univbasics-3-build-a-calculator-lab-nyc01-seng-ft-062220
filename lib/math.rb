@@ -30,7 +30,6 @@ end
 
 def square_root(num)
   x = num1.sqrt
-  y = num2.sqrt
-  puts x y
-  return x y
+  puts x
+  return x 
 end
